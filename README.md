@@ -19,6 +19,6 @@ Run python joiner.py
 
 | Features    | Description                                                                                        |
 | ----------- | -------------------------------------------------------------------------------------------------- |
-| 1.Generator | Generate your chosen amount twitch tokens that gets stored in a txt file                           |
+| 1.Tokens    | You can get tokens [here](https://discord.gg/qmvWAJ3Nne)                                                                           |
 
 **Discord = [XPTGR#0636](https://discord.com/users/902300313652953149)**
