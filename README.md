@@ -19,6 +19,6 @@ Run python joiner.py
 
 | Features    | Description                                                                                        |
 | ----------- | -------------------------------------------------------------------------------------------------- |
-| 1.Tokens    | You can get tokens [here](https://discord.gg/qmvWAJ3Nne)                                                                           |
+| 1.Tokens    | You can get tokens [here](https://discord.gg/H6er6xEcn5)                                                                           |
 
 **Discord = [XPTGR#0636](https://discord.com/users/902300313652953149)**
